@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "laIiexqLxSxzl3cR0hfGkABxjv0WvpCWf4OuykvhHDf9AaTspS4Fjrig7GIIix555KVQLcIYPfaaOgegnP5D9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sovaa\\Desktop\\Facultate\\Homework\\An_3\\Sem_2\\.net\\Final_Project\\DataPipeline\\OSMDataParser\\OSMDataParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sovaa\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}

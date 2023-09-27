@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kAlMatFMZrvF2e4VHGHoE9vm2kb6ODtRRUfDn+4V5kCRhINe3T3gf42gYv63iU+lB499/He+V1YTdRIuRGbVFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sovaa\\Desktop\\Facultate\\Homework\\An_3\\Sem_2\\.net\\Final_Project\\DataPipeline\\MapFeatureGenerator\\MapFeatureGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sovaa\\.nuget\\packages\\commandlineparser\\2.9.0-preview1\\commandlineparser.2.9.0-preview1.nupkg.sha512",
+    "C:\\Users\\sovaa\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}

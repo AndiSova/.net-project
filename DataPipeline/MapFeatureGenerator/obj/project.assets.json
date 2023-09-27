@@ -1,0 +1,196 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "CommandLineParser/2.9.0-preview1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/CommandLine.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/CommandLine.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Google.Protobuf/3.19.4": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Google.Protobuf.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Google.Protobuf.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Mapster.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Mapster.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Mapster.Common.dll": {}
+        }
+      },
+      "OSMDataParser/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Google.Protobuf": "3.19.4"
+        },
+        "compile": {
+          "bin/placeholder/OSMDataParser.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OSMDataParser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CommandLineParser/2.9.0-preview1": {
+      "sha512": "/cv6pigvbhmN1b3Y3FRf6EPHNFRtZhlScqQNrzVkTfR7DoDKdvpdbmPL7HhpNEJaTl7JMwvwojJMFjGGAr5wPg==",
+      "type": "package",
+      "path": "commandlineparser/2.9.0-preview1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CommandLine20.png",
+        "License.md",
+        "README.md",
+        "commandlineparser.2.9.0-preview1.nupkg.sha512",
+        "commandlineparser.nuspec",
+        "lib/net40/CommandLine.dll",
+        "lib/net40/CommandLine.xml",
+        "lib/net45/CommandLine.dll",
+        "lib/net45/CommandLine.xml",
+        "lib/net461/CommandLine.dll",
+        "lib/net461/CommandLine.xml",
+        "lib/netstandard2.0/CommandLine.dll",
+        "lib/netstandard2.0/CommandLine.xml"
+      ]
+    },
+    "Google.Protobuf/3.19.4": {
+      "sha512": "fd07/ykL4O4FhqrZIELm5lmiyOHfdPg9+o+hWr6tcfRdS7tHXnImg/2wtogLzlW2eEmr0J7j6ZrZvaWOLiJbxQ==",
+      "type": "package",
+      "path": "google.protobuf/3.19.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "google.protobuf.3.19.4.nupkg.sha512",
+        "google.protobuf.nuspec",
+        "lib/net45/Google.Protobuf.dll",
+        "lib/net45/Google.Protobuf.pdb",
+        "lib/net45/Google.Protobuf.xml",
+        "lib/net5.0/Google.Protobuf.dll",
+        "lib/net5.0/Google.Protobuf.pdb",
+        "lib/net5.0/Google.Protobuf.xml",
+        "lib/netstandard1.1/Google.Protobuf.dll",
+        "lib/netstandard1.1/Google.Protobuf.pdb",
+        "lib/netstandard1.1/Google.Protobuf.xml",
+        "lib/netstandard2.0/Google.Protobuf.dll",
+        "lib/netstandard2.0/Google.Protobuf.pdb",
+        "lib/netstandard2.0/Google.Protobuf.xml"
+      ]
+    },
+    "Mapster.Common/1.0.0": {
+      "type": "project",
+      "path": "../../Common/Common.csproj",
+      "msbuildProject": "../../Common/Common.csproj"
+    },
+    "OSMDataParser/1.0.0": {
+      "type": "project",
+      "path": "../OSMDataParser/OSMDataParser.csproj",
+      "msbuildProject": "../OSMDataParser/OSMDataParser.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "CommandLineParser >= 2.9.0-preview1",
+      "Mapster.Common >= 1.0.0",
+      "OSMDataParser >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sovaa\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\sovaa\\Desktop\\Facultate\\Homework\\An_3\\Sem_2\\.net\\Final_Project\\DataPipeline\\MapFeatureGenerator\\MapFeatureGenerator.csproj",
+      "projectName": "MapFeatureGenerator",
+      "projectPath": "C:\\Users\\sovaa\\Desktop\\Facultate\\Homework\\An_3\\Sem_2\\.net\\Final_Project\\DataPipeline\\MapFeatureGenerator\\MapFeatureGenerator.csproj",
+      "packagesPath": "C:\\Users\\sovaa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sovaa\\Desktop\\Facultate\\Homework\\An_3\\Sem_2\\.net\\Final_Project\\DataPipeline\\MapFeatureGenerator\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\sovaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\sovaa\\Desktop\\Facultate\\Homework\\An_3\\Sem_2\\.net\\Final_Project\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\sovaa\\Desktop\\Facultate\\Homework\\An_3\\Sem_2\\.net\\Final_Project\\Common\\Common.csproj"
+            },
+            "C:\\Users\\sovaa\\Desktop\\Facultate\\Homework\\An_3\\Sem_2\\.net\\Final_Project\\DataPipeline\\OSMDataParser\\OSMDataParser.csproj": {
+              "projectPath": "C:\\Users\\sovaa\\Desktop\\Facultate\\Homework\\An_3\\Sem_2\\.net\\Final_Project\\DataPipeline\\OSMDataParser\\OSMDataParser.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "CommandLineParser": {
+            "target": "Package",
+            "version": "[2.9.0-preview1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
