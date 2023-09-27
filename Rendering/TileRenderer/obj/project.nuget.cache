@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uYN5O0TKCy1HNHro24bAhFWz6MToyYCOxqad9Aq7gnKR3aTrnGXPAooh0XuNLIMMrNcxFBUirIB+botp3SJ4Iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sovaa\\Desktop\\Facultate\\Homework\\An_3\\Sem_2\\.net\\Final_Project\\Rendering\\TileRenderer\\TileRenderer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sovaa\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\sovaa\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta16\\sixlabors.fonts.1.0.0-beta16.nupkg.sha512",
+    "C:\\Users\\sovaa\\.nuget\\packages\\sixlabors.imagesharp\\2.0.0\\sixlabors.imagesharp.2.0.0.nupkg.sha512",
+    "C:\\Users\\sovaa\\.nuget\\packages\\sixlabors.imagesharp.drawing\\1.0.0-beta14\\sixlabors.imagesharp.drawing.1.0.0-beta14.nupkg.sha512",
+    "C:\\Users\\sovaa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\sovaa\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

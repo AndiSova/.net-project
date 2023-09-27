@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "x4XaDVB2rBKVQZ2qmkK9o5CSJCZ0OCeBiZmSQrJZQR4ZZ+14eiKd0s2z6ORJNsohl+a9alwO1K6MiY3FSqqn6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sovaa\\Desktop\\Facultate\\Homework\\An_3\\Sem_2\\.net\\Final_Project\\Service\\Service\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sovaa\\.nuget\\packages\\commandlineparser\\2.9.0-preview1\\commandlineparser.2.9.0-preview1.nupkg.sha512",
+    "C:\\Users\\sovaa\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\sovaa\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\sovaa\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\sovaa\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta16\\sixlabors.fonts.1.0.0-beta16.nupkg.sha512",
+    "C:\\Users\\sovaa\\.nuget\\packages\\sixlabors.imagesharp\\2.0.0\\sixlabors.imagesharp.2.0.0.nupkg.sha512",
+    "C:\\Users\\sovaa\\.nuget\\packages\\sixlabors.imagesharp.drawing\\1.0.0-beta14\\sixlabors.imagesharp.drawing.1.0.0-beta14.nupkg.sha512",
+    "C:\\Users\\sovaa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\sovaa\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
